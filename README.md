@@ -1,7 +1,7 @@
 # PhpMyAdmin_Cracker
 PWA爆破工具
 
-需要Python3.4及以上版本
+需要Python3.4及以上版本，请勿用于非法用途
 
 ## 使用方法
 
